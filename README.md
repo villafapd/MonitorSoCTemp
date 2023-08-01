@@ -9,11 +9,17 @@ Video
 https://youtube.com/watch?v=TBTrOWVpnG4&feature=share
 
 Librerias necesarias para el proyecto
+  
   https://github.com/WiringPi/WiringPi-Python
   
   https://gpiozero.readthedocs.io/en/stable/#
   
   Tkinter 
+
+Para arrancar el monitor de temperatura cuando la RaspBerry Pi arranque y luego de cargar el escritorio.
+
+https://www.youtube.com/watch?v=k1OBC7wqUes
+
 
 Nota: Proyecto realizado en PYTHON
 
