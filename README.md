@@ -9,6 +9,7 @@ Video
 https://youtube.com/watch?v=TBTrOWVpnG4&feature=share
 
 Librerias necesarias para el proyecto
+  
   https://github.com/WiringPi/WiringPi-Python
   
   https://gpiozero.readthedocs.io/en/stable/#
