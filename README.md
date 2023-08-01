@@ -6,7 +6,9 @@ Foto del monitor:
 
 Librerias necesarias para el proyecto
   https://github.com/WiringPi/WiringPi-Python
+  
   https://gpiozero.readthedocs.io/en/stable/#
+  
   Tkinter 
 
 Nota: Proyecto realizado en PYTHON
