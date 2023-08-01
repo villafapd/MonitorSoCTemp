@@ -49,7 +49,7 @@ def LogicaCtrlCPU():
             Ventilador= "Encendido" #+ str(wiringpi.digitalRead(5)) 
             ColorFondo = "green"
 
-    if Temp_Float <= 48:#39.0:
+    if Temp_Float <= 40:#39.0:
       #  print("Alarma Baja Temperatura SoC")
         Cooler.off()
         if wiringpi.digitalRead(5)==0:
