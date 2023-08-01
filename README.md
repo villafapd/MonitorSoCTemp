@@ -15,6 +15,11 @@ Librerias necesarias para el proyecto
   
   Tkinter 
 
+Para arrancar el monitor de temperatura cuando la RaspBerry Pi arranque y luego de cargar el escritorio.
+
+https://www.youtube.com/watch?v=k1OBC7wqUes
+
+
 Nota: Proyecto realizado en PYTHON
 
 
