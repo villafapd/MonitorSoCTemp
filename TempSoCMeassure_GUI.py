@@ -44,7 +44,7 @@ def LogicaCtrlCPU():
     global ColorFondo
     if Temp_Float >= 60.0:
      #   print("Alarma Alta Temperatura SoC")
-        Cooler.on()
+        Cooler.on() #El programa actual tiene esta salida invertida por el tipo de rele
         if wiringpi.digitalRead(5)==1:
             Ventilador= "Encendido" #+ str(wiringpi.digitalRead(5)) 
             ColorFondo = "green"
